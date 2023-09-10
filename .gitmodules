@@ -1,3 +1,6 @@
 [submodule "rosatom-backend"]
 	path = rosatom-backend
 	url = git@github.com:kravetsone/rosatom-backend.git
+[submodule "cp-rosatom-front-2023"]
+	path = cp-rosatom-front-2023
+	url = git@github.com:Skifry/cp-rosatom-front-2023.git
