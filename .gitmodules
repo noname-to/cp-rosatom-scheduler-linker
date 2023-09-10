@@ -1,0 +1,3 @@
+[submodule "rosatom-backend"]
+	path = rosatom-backend
+	url = git@github.com:kravetsone/rosatom-backend.git
